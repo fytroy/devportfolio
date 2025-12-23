@@ -59,8 +59,36 @@ export type ValidSkills =
   | "Django"
   | "FastAPI"
   | "SQL"
+  | "SQL Server"
   | "NoSQL"
-  | "Framer Motion";
+  | "AngularJS"
+  | "Framer Motion"
+  | "Power BI"
+  | "ETL"
+  | "Data Analysis"
+  | "Power Apps"
+  | "Data Visualization"
+  | "IT Support"
+  | "Networking"
+  | "System Administration"
+  | "Troubleshooting"
+  | "Accounting"
+  | "IT Infrastructure"
+  | "Property Management"
+  | "Communication"
+  | "Windows Server"
+  | "cPanel"
+  | "Web Development"
+  | "Geospatial BI"
+  | "Treasury Pricing"
+  | "Scikit-Learn"
+  | "Streamlit"
+  | "Predictive Analytics"
+  | "Pandas"
+  | "Scikit-learn"
+  | "SSRS"
+  | "Automation"
+  | "PowerShell";
 
 export type ValidCategory =
   | "Full Stack"
@@ -69,7 +97,17 @@ export type ValidCategory =
   | "UI/UX"
   | "Web Dev"
   | "Mobile Dev"
-  | "3D Modeling";
+  | "3D Modeling"
+  | "Data Analysis"
+  | "Power BI"
+  | "SQL"
+  | "Machine Learning"
+  | "Python"
+  | "AI"
+  | "Data Engineering"
+  | "ETL"
+  | "Automation"
+  | "PowerShell";
 
 export type ValidExpType = "Personal" | "Professional";
 
