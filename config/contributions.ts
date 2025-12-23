@@ -7,25 +7,25 @@ export interface contributionsInterface {
 
 export const contributionsUnsorted: contributionsInterface[] = [
   {
-    repo: "autogen",
+    repo: "HighValueTransactionAlerts",
     contibutionDescription:
-      "Improved the gallery component to showcase the community work.",
-    repoOwner: "Microsoft",
-    link: "https://github.com/microsoft/autogen/pull/1445",
+      "Automated High-Value Transaction Alert System using PowerShell and SQL Server.",
+    repoOwner: "fytroy",
+    link: "https://github.com/fytroy/HighValueTransactionAlerts",
   },
   {
-    repo: "creativecommons",
+    repo: "NetworkReport.py",
     contibutionDescription:
-      "Closed Issue: Fixed navbar issue on the main website of creative common.",
-    repoOwner: "Creative Commons",
-    link: "https://github.com/creativecommons/creativecommons.github.io-source/pull/738",
+      "A Python script for generating network reports.",
+    repoOwner: "fytroy",
+    link: "https://github.com/fytroy/NetworkReport.py",
   },
   {
-    repo: "creativecommons",
+    repo: "DailySystemReporter.py",
     contibutionDescription:
-      "Added section for 'Other Opportunities' on main page.",
-    repoOwner: "Creative Commons",
-    link: "https://github.com/creativecommons/creativecommons.github.io-source/pull/719",
+      "Automated Regulatory Compliance & Health Reporter script.",
+    repoOwner: "fytroy",
+    link: "https://github.com/fytroy/DailySystemReporter.py",
   },
 ];
 
